@@ -89,3 +89,23 @@ p{
 .picturesize{
     width: 80%;
 }
+
+footer{
+    padding:5%
+}
+
+.tableau{
+    height:480px;
+    overflow-x: scroll;
+    background-color: grey;
+}
+
+th{
+    color:white;
+    background-color: #27d1ff;
+    text-transform: uppercase;
+}
+
+form{
+    outline: none;
+}
